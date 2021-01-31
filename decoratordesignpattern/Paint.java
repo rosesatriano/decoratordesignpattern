@@ -1,7 +1,5 @@
 package decoratordesignpattern;
 
-import decoratordesignpattern.VehicleDecorator;
-
 public class Paint extends VehicleDecorator{
     Vehicle vehicle;
 
